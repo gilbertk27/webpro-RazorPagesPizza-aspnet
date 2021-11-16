@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gilbert KH\\OneDrive - Institut Teknologi Sepuluh Nopember\\Desktop\\RazorPagesPizza\\RazorPagesPizza.csproj",
+      "projectUniqueName": "C:\\Users\\Gilbert KH\\OneDrive - Institut Teknologi Sepuluh Nopember\\Dokumen\\GitHub\\webpro-RazorPagesPizza-aspnet\\RazorPagesPizza.csproj",
       "projectName": "RazorPagesPizza",
-      "projectPath": "C:\\Users\\Gilbert KH\\OneDrive - Institut Teknologi Sepuluh Nopember\\Desktop\\RazorPagesPizza\\RazorPagesPizza.csproj",
+      "projectPath": "C:\\Users\\Gilbert KH\\OneDrive - Institut Teknologi Sepuluh Nopember\\Dokumen\\GitHub\\webpro-RazorPagesPizza-aspnet\\RazorPagesPizza.csproj",
       "packagesPath": "C:\\Users\\Gilbert KH\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gilbert KH\\OneDrive - Institut Teknologi Sepuluh Nopember\\Desktop\\RazorPagesPizza\\obj\\",
+      "outputPath": "C:\\Users\\Gilbert KH\\OneDrive - Institut Teknologi Sepuluh Nopember\\Dokumen\\GitHub\\webpro-RazorPagesPizza-aspnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gilbert KH\\AppData\\Roaming\\NuGet\\NuGet.Config"
